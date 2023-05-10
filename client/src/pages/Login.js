@@ -36,8 +36,8 @@ const Login = () => {
   };
 
   return (
-    <Grid textAlign='center' style={{ height: '50vh' }} verticalAlign='middle'>
-      <Grid.Column style={{ maxWidth: 600 }}>
+    <Grid textAlign='center' style={{ height: '60vh' }} verticalAlign='middle'>
+      <Grid.Column style={{ maxWidth: 500 }}>
         <Header as='h2' color='pink' textAlign='center'>
           Log-in to your account
         </Header>

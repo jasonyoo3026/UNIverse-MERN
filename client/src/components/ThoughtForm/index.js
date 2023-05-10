@@ -62,7 +62,7 @@ const ThoughtForm = () => {
   };
 
   return (
-    <div>
+    <div >
       <h2>Share your experience and thoughts on your uni and job hunting!</h2>
 
       {Auth.loggedIn() ? (

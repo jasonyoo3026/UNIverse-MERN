@@ -932,7 +932,7 @@ a:hover {
 }
 
 .bg-light {
-  background-color: #e7beec !important;
+  background-color: #f5eef6 !important;
 }
 
 .bg-dark {
@@ -1039,12 +1039,12 @@ a:hover {
 }
 
 .btn.btn-light {
-  background-color: #d9e9e8;
-  color: #1a1a1a;
+  background-color: #993f67;
+  color: white;
 }
 
 .btn.btn-light:hover {
-  background-color: #84b8b4;
+  background-color: #b76f8f;
 }
 
 .btn.btn-dark {
